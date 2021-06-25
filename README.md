@@ -2,7 +2,7 @@
 
 _Software developer based in Munich, Germany_
 
-[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) | [Project Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch)
+[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch)
 
 ## employments
 
