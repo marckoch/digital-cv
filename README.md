@@ -12,21 +12,29 @@ _Software developer based in Munich, Germany_
 |02/2002 - 09/2017|Software Developer<br>Sulzer GmbH, Munich|
 |03/2000 - 01/2002|Software Developer<br>ELAXY, Puchheim|
 
-## technologies
+## strong knowledge in
 
-## interests
+Java SE, Java EE, Spring, SpringBoot, Software architecture, Cloud native applications, 12 factor apps, Software quality, Clean Code, CI/CD, SQL
 
-* Kotlin
-* Clojure
-* Functional programming
-* math
+## good knowledge in
+
+Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Design Patterns, Domain Driven Design, Openshift
+
+## would love to do more of
+
+Kotlin, Clojure, Functional programming
 
 ## projects
 
 |time|project|
 |---|---|
 |04/2021 - current|software developer at an insurance company<br>quality insurance by using SonarQube in the CI/CD pipeline<br>**technologies used**: Java 11, OpenShift 4, Jenkins, SonarQube|
-|10/2020 - 03/2021|fullstack developer at a telecommunications provider<br>implementing user stories <br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis, RabbitMQ|
+|10/2020 - 03/2021|fullstack developer at a telecommunications provider<br>implementing user stories <br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis|
+|...|...more to come...|
+
+## talks
+
+[Microservices - blessing or curse? (in German)](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)
 
 ## certifications
 
