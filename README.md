@@ -35,7 +35,7 @@ _click images to see badges_
 
 ## education
 
-|||
+|time|place|
 |---|---|
 |1994 - 2000|University Kassel<br>Physics Diploma|
 |1988 - 1994|Goetheschule Kassel<br>Abitur 1,4|
