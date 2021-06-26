@@ -18,7 +18,7 @@ Java SE, Java EE, Spring, SpringBoot, Software architecture, Cloud native applic
 
 ## good knowledge in
 
-Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Design Patterns, Domain Driven Design, Openshift
+Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Design Patterns, Domain Driven Design, Openshift, arc42
 
 ## would love to do more of
 
@@ -28,8 +28,11 @@ Kotlin, Clojure, Functional programming, AWS
 
 |time|project|
 |---|---|
-|04/2021 - current|software developer at an insurance company<br>quality insurance by using SonarQube in the CI/CD pipeline<br>**technologies used**: Java 11, OpenShift 4, Jenkins, SonarQube|
-|10/2020 - 03/2021|fullstack developer at a telecommunications provider<br>implementing user stories <br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis|
+|04/2021 - current|**software developer** at an insurance company<br>quality insurance by using SonarQube in the CI/CD pipeline, refactoring code to reduce Sonarqube issues<br>**technologies used**: Java 11, JUnit, OpenShift 4, Jenkins, SonarQube|
+|10/2020 - 03/2021|**fullstack developer** at a telecommunications provider<br>implementing user stories in frontend (React, Typescript) and backend (Java, Spring), reduction of technical debt, software modernization<br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis, JUnit|
+|02/2019 - 07/2020|**software developer / architect** at an insurance company<br>modernization of an 17 year old software monolith, refactoring to microservices, analysis and documentation of current architecture, definition of new target architecture, reduction of technical debt, refactoring of build process from ant to maven, setup of new CI/CD build pipeline in Jenkins, refactoring of cycles in code<br>**Technologies used**: Java 8, Spring, mvn, ant, Jenkins, JUnit, ArchUnit, Sonargraph|
+|11/2017 - 12/2018|**software developer** at an automotive company<br>working in a backend application (microservice) in the ConnectedCar context, implementing user stories, code refactoring, increasing code quality, reduction of technical debt, bug fixing, update of documentation<br>**technologies used**: Java 8, Java EE 7, Payara, JAX-WS, JAX-RS, JMS, TDD, JUnit, mvn, Openshift 3, Jenkins|
+|06/2017 - 08/2017|**fullstack developer** at an automotive company<br>greenfield project of a new SPA based on Angular and Java EE, initial project setup, implementation of first use cases in prototype<br>**technologies used**: Java 8, Java EE 7, Glassfish, Angular, PrimeNG, bootstrap, Javascript, HTML, CSS, mvn|
 |...|...more to come...|
 
 ## talks
@@ -51,6 +54,8 @@ _(click images to see badges)_
 |older|Java 8 Associate (1Z0 808), Java 8 Professional (1Z0 809), Scrum Master, Elastic Search|
 
 ## other activity / nerd stuff
+
+_(click images to see online profiles)_
 
 [![My Project Euler page](https://projecteuler.net/profile/marckoch75.png)](https://projecteuler.net/progress=marckoch75)
 
