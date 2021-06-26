@@ -50,12 +50,13 @@ _(click images to see badges)_
 |02/2018|Spring Core 4.3 Professional|[![Spring](./spring-badge-6176.png)](https://bcert.me/scavwfxd)|
 |older|Java 8 Associate (1Z0 808), Java 8 Professional (1Z0 809), Scrum Master, Elastic Search|
 
-## other activity
+## other activity / nerd stuff
 
 [![My Project Euler page](https://projecteuler.net/profile/marckoch75.png)](https://projecteuler.net/progress=marckoch75)
 
 [![Code wars](https://www.codewars.com/users/marckoch/badges/large)](https://www.codewars.com/users/marckoch)
 
+[![Steam](https://steamsignature.com/card/0/76561198312038988.png)](https://steamcommunity.com/profiles/76561198312038988/)
 
 ## education
 
