@@ -2,19 +2,19 @@
 
 _Software developer based in Munich, Germany_
 
-[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch)
+[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch) / [github](https://github.com/marckoch)
 
 ## employments
 
 |time|company|
 |----|---|
 |11/2017 - today|Senior Technical Consultant<br>bbv Software Services GmbH, Munich|
-|02/2002 - 09/2017|Software Developer<br>Sulzer GmbH, Munich|
-|03/2000 - 01/2002|Software Developer<br>ELAXY, Puchheim|
+|02/2002 - 09/2017|Software Developer JavaEE<br>Sulzer GmbH, Munich|
+|03/2000 - 01/2002|Software Developer C++<br>ELAXY, Puchheim|
 
 ## strong knowledge in
 
-Java SE, Java EE, Spring, SpringBoot, Software architecture, Cloud native applications, 12 factor apps, Software quality, Clean Code, CI/CD, SQL
+Java SE, Java EE, Spring, SpringBoot, Software architecture, Cloud native applications, 12 factor apps, Microservices, Software refactoring, Software quality, Clean Code, CI/CD, SQL
 
 ## good knowledge in
 
@@ -22,7 +22,7 @@ Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Desi
 
 ## would love to do more of
 
-Kotlin, Clojure, Functional programming
+Kotlin, Clojure, Functional programming, AWS
 
 ## projects
 
@@ -38,7 +38,7 @@ Kotlin, Clojure, Functional programming
 
 ## certifications
 
-_click images to see badges_
+_(click images to see badges)_
 
 |time|achivement||
 |---|---|---|
@@ -53,6 +53,9 @@ _click images to see badges_
 ## other activity
 
 [![My Project Euler page](https://projecteuler.net/profile/marckoch75.png)](https://projecteuler.net/progress=marckoch75)
+
+[![Code wars](https://www.codewars.com/users/marckoch/badges/large)](https://www.codewars.com/users/marckoch)
+
 
 ## education
 
