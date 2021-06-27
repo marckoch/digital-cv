@@ -30,7 +30,7 @@ Kotlin, Clojure, Functional programming, AWS, Quarkus
 |---|---|
 |04/2021 - current|**software developer** at an insurance company<br>quality insurance by using SonarQube in the CI/CD pipeline, refactoring code to reduce Sonarqube issues<br>**technologies used**: Java 11, JUnit, OpenShift 4, Jenkins, SonarQube|
 |10/2020 - 03/2021|**fullstack developer** at a telecommunications provider<br>implementing user stories in frontend (React, Typescript) and backend (Java, Spring), reduction of technical debt, software modernization<br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis, JUnit|
-|02/2019 - 07/2020|**software developer / architect** at an insurance company<br>modernization of an 17 year old software monolith, refactoring to microservices, analysis and documentation of current architecture, definition of new target architecture, reduction of technical debt, refactoring of build process from ant to maven, setup of new CI/CD build pipeline in Jenkins, refactoring of cycles in code, introduction of coding guidelines to the team<br>**Technologies used**: Java 8, Spring, mvn, ant, Jenkins, JUnit, ArchUnit, Sonargraph|
+|02/2019 - 07/2020|**software developer / architect** at an insurance company<br>modernization of an 17 year old software monolith, refactoring to microservices, analysis and documentation of current architecture, definition of new target architecture, reduction of technical debt, refactoring of build process from ant to maven, setup of new CI/CD build pipeline in Jenkins, refactoring of cycles in code, introduction of coding guidelines to the team<br>**technologies used**: Java 8, Spring, mvn, ant, Jenkins, JUnit, ArchUnit, Sonargraph|
 |11/2017 - 12/2018|**software developer** at an automotive company<br>working in a backend application (microservice) in the ConnectedCar context, implementing user stories, code refactoring, increasing code quality, reduction of technical debt, bug fixing, update of documentation and coding guidelines<br>**technologies used**: Java 8, Java EE 7, Payara, JAX-WS, JAX-RS, JMS, JPA, Postgres DB, TDD, JUnit, mvn, Openshift 3, Jenkins|
 |06/2017 - 08/2017|**fullstack developer** at an automotive company<br>greenfield project of a new SPA based on Angular and Java EE, initial project setup, implementation of first use cases in prototype<br>**technologies used**: Java 8, Java EE 7, Glassfish, Angular, PrimeNG, bootstrap, Javascript, HTML, CSS, mvn|
 |04/2017 - 05/2017|**software engineer** at an automotive company<br>setup of ELK stack to monitor application logfiles spread over 26 servers, setup of initial visualizations in Kibana dashboard<br>**technologies used**: Elasticsearch, Logstash, Kibana|
@@ -39,7 +39,9 @@ Kotlin, Clojure, Functional programming, AWS, Quarkus
 
 ## talks
 
-[Microservices - blessing or curse? (in German)](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)
+|time|talk|
+|---|---|
+|05/2021|Onlline Webinar: [Microservices - blessing or curse? (in German)](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)|
 
 ## certifications
 
