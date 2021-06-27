@@ -41,7 +41,7 @@ Kotlin, Clojure, Functional programming, AWS, Quarkus
 
 |time|talk|
 |---|---|
-|05/2021|Online Webinar: [Microservices - blessing or curse? (in German)](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)|
+|05/2021|Online Webinar (in German):<br>[Microservices - blessing or curse?](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)|
 
 ## certifications
 
