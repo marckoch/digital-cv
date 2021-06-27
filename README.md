@@ -1,5 +1,7 @@
 # Marc Koch
 
+![Photo](mk_150x150.png)
+
 _Software developer based in Munich, Germany_
 
 [Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project&nbsp;Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch) / [github](https://github.com/marckoch) / [JetBrains&nbsp;Academy](https://hyperskill.org/profile/77202658)
