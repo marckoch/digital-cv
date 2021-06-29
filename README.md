@@ -14,7 +14,7 @@ Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Desi
 
 ## would love to do more of
 
-Kotlin, Clojure, Functional programming, AWS, Quarkus
+Kotlin, Clojure, Functional programming, AWS, Quarkus, Kafka
 
 ## projects
 
