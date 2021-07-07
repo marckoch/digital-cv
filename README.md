@@ -62,6 +62,8 @@ _(click images to see online profiles)_
 
 [![Steam](https://steamsignature.com/card/0/76561198312038988.png)](https://steamcommunity.com/profiles/76561198312038988/)
 
+[![lichess](./lichesslogo.png)](https://lichess.org/@/marckoch)
+
 ## employments
 
 |time|company|
