@@ -2,7 +2,7 @@
 
 ![Photo](mk_150x150.png) _Software developer based in Munich, Germany_
 
-[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project&nbsp;Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch) / [github](https://github.com/marckoch) / [JetBrains&nbsp;Academy](https://hyperskill.org/profile/77202658)
+[Email](mailto:marckoch@posteo.de) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project&nbsp;Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch) / [github](https://github.com/marckoch) / [JetBrains&nbsp;Academy](https://hyperskill.org/profile/77202658) / [speakerdeck](https://speakerdeck.com/marckoch)
 
 ## strong knowledge in
 
@@ -35,7 +35,7 @@ Kotlin, Clojure, Functional programming, AWS, Quarkus, Kafka
 
 |time|talk|
 |---|---|
-|05/2021|Online Webinar (in German):<br>[Microservices - blessing or curse?](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ)|
+|05/2021|Online Webinar (in German):<br>Microservices - blessing or curse? [recording](https://bbv-ch.zoom.us/rec/play/OJOthNgKvmkN7Hv4fMLCet_OM_NuaQ8VfWHzZnH9zqzcJw7sLFfyjqTSARFLu79-WhpAqevJxYmLYswH.o8ZvYyYipPGMZRKQ) / [slides](https://speakerdeck.com/marckoch/microservices-fluch-oder-segen)|
 |06/2020|Beseitigen von Zyklen in einer Legacyanwendung<br>(Refactoring of cycles in a legacy application)|
 
 ## certifications
