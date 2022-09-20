@@ -48,7 +48,7 @@ _(click images to see badges)_
 |07/2020|iSAQB CPSA-F<br>Certified Professional Software Architect<br>(Foundation)|[![CPSA-F](./cpsa-f-logo.png)](https://www.certible.com/de/verify/1dd77a2781157fb11161acf5d04ad532)|
 |12/2019|Certified Kubernetes Application Developer|[![CKSD](https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/badges/b1ae47ca-5a51-4744-8b6e-5174ee338e3f)|
 |07/2019|Oracle Certified Professional JavaSE 11 Developer (1Z0 817)|[![Java](https://images.credly.com/size/100x100/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png)](https://www.credly.com/badges/efeeae2f-e23a-44f5-8ab3-a6238a9183dd)|
-|01/2019|Docker Certified Associate<br>(expired 01/2021 and discontinued)|[![Docker](https://img.icons8.com/color/96/000000/docker.png)](https://credentials.docker.com/lr99yvhf)|
+|01/2019|Docker Certified Associate<br>(expired 01/2021 and discontinued)|[![Docker](https://img.icons8.com/color/96/000000/docker.png)](https://certification.mirantis.com/embed/31fd7f62-be29-46d4-a337-93608f9f485d)|
 |02/2018|Spring Core 4.3 Professional|[![Spring](./spring-badge-6176.png)](https://bcert.me/scavwfxd)|
 |older|Java 8 Associate (1Z0 808),<br>Java 8 Professional (1Z0 809),<br>Scrum Master,<br>Elastic Search|
 
