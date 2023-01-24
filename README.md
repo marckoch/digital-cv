@@ -20,7 +20,8 @@ Kotlin, Clojure, Functional programming, AWS
 
 |time|project|
 |---|---|
-|06/2022 - current|**software developer/architect** in bbv internal project 'Skillmatrix', tool to track developers and their skills<br>**technologies used**: Java 17, Spring Boot, Thymeleaf, HTML5, CSS, Bootstrap, maven, git, GitHub, Sonarcloud.io, JUnit, PostgreSQL, Docker, AWS, Beanstalk, EC2, arc42, plantUML, UML|
+|12/2022 - 01/2023|**architectural consulting** in Swiss streaming plattform provider, analysis of backend code<br>**technologies used**: Sonargraph|
+|06/2022 - 12/2022|**software developer/architect** in bbv internal project 'Skillmatrix', tool to track developers and their skills<br>**technologies used**: Java 17, Spring Boot, Thymeleaf, HTML5, CSS, Bootstrap, maven, git, GitHub, Sonarcloud.io, JUnit, PostgreSQL, Docker, AWS, Beanstalk, EC2, arc42, plantUML, UML|
 |04/2021 - 06/2022|**software developer** at an insurance company<br>setup automatic release process (mvn), introduction and coaching of git workflow, quality insurance by using SonarQube in the CI/CD pipeline, refactoring code to reduce SonarQube issues<br>**technologies used**: Java 11, JUnit, OpenShift 4, Jenkins, SonarQube|
 |10/2020 - 03/2021|**fullstack developer** at a telecommunications provider<br>implementing user stories in frontend (React, Typescript) and backend (Java, Spring), reduction of technical debt, software modernization<br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis, JUnit|
 |02/2019 - 07/2020|**software developer / architect** at an insurance company<br>modernization of a 17 year old software monolith, refactoring to microservices, analysis and documentation of current architecture, definition of new target architecture, reduction of technical debt, refactoring of build process from ant to maven, setup of new CI/CD build pipeline in Jenkins, refactoring of cycles in code, introduction of coding guidelines to the team<br>**technologies used**: Java 8, Spring, mvn, ant, Jenkins, JUnit, ArchUnit, Sonargraph|
@@ -63,8 +64,6 @@ _(click images to see online profiles)_
 [![Code wars](https://www.codewars.com/users/marckoch/badges/large)](https://www.codewars.com/users/marckoch)
 
 [![Steam](https://steamsignature.com/card/0/76561198312038988.png)](https://steamcommunity.com/profiles/76561198312038988/)
-
-[![lichess](./lichesslogo.png)](https://lichess.org/@/marckoch)
 
 ## employments
 
