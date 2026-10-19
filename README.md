@@ -6,7 +6,7 @@
 
 ## strong knowledge in
 
-Java SE, Java EE, Spring, SpringBoot, Software architecture, Clean architecture, Cloud native applications, 12 factor apps, Microservices, Software refactoring, Software quality, Clean Code, CI/CD, SQL, maven, git
+Java SE, Java EE, Spring, SpringBoot, Software architecture, Clean architecture, Cloud native applications, 12 factor apps, Microservices, Software refactoring, Software quality, Software Security, OWASP, Clean Code, CI/CD, SQL, maven, git
 
 ## good knowledge in
 
@@ -14,7 +14,7 @@ Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Desi
 
 ## would love to do more of
 
-Kotlin, Clojure, Functional programming
+Kotlin, Clojure, Functional programming, Security
 
 ## projects
 
@@ -48,6 +48,8 @@ _(click images to see badges)_
 
 |time|achivement||
 |---|---|---|
+|coming soon|CSSLP - Certified Secure Software Lifecycle Professional|[iCS2](https://www.isc2.org/certifications/csslp)|
+|11/2025|LFD121: Developing Secure Software|[LDF121](https://www.credly.com/badges/1f70f183-dc6e-4e71-a02f-2668e01ac333)|
 |04/2023|Certified Kubernetes Application Developer|[CKAD](https://www.credly.com/badges/b1ae47ca-5a51-4744-8b6e-5174ee338e3f) (expired 04/2026)|
 |11/2022|iSAQB CPSA-A<br>Certified Professional Software Architect<br>(Advanced)|[![CPSA-F](./cpsa-a-logo.png)](https://www.certible.com/verify/f40e6645073f01735ffeb33d24d9bddb)|
 |08/2020|AWS Cloud Practitioner|[![AWS Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/1f98299e-e08d-4896-aa32-88f7eecfd698)|
