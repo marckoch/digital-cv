@@ -14,13 +14,15 @@ Kubernetes, Docker, Javascript, Typescript, React, Angular, HTML, CSS, TDD, Desi
 
 ## would love to do more of
 
-Kotlin, Clojure, Functional programming, AWS
+Kotlin, Clojure, Functional programming
 
 ## projects
 
 |time|project|
 |---|---|
-|06/2022 - 03/2023|**software developer/architect** in bbv internal project 'Skillmatrix', tool to track developers and their skills<br>**technologies used**: Java 17, Spring Boot, Thymeleaf, HTML5, CSS, Bootstrap, maven, git, GitHub, Sonarcloud.io, JUnit, PostgreSQL, Docker, AWS, Beanstalk, EC2, arc42, plantUML, UML|
+| 11/2025 – 11/2026 | **senior backend developer / architect**<br>part of a team digitalising medical service workflows for a German public sector (employment agency), including order management, electronic client records, document scanning, and billing.<br><br>• developed features and refined business and technical requirements.<br>• provided architectural guidance and assessed implementation options and technical feasibility.<br>• modernised legacy code, reduced technical debt, and improved application stability and performance.<br>• implemented timeout and retry handling for a core external interface.<br>• developed a new component for internal billing and automated test data generation.<br>• improved integration test mocks and used Tabnine to support test creation and refactoring.<br>• implemented public sector security requirements.<br><br>**technologies and methods:** Java 21, Jakarta EE 10, Oracle DB, REST, Swagger, TDD, arc42, ArchUnit, Scrum, Tabnine, AI |
+| 04/2023 – 09/2025 | **senior backend developer / architect**<br>developed an external customer platform for a German logistics company.<br><br>• built an internal access management application on Keycloak to manage external users, user groups, and access rights.<br>• enabled internal administrators to manage access without working directly in Keycloak, while improving enforcement of business rules.<br><br>**technologies and methods:** Java 21, Spring Boot 4, Spring Cloud, Spring Security, OpenAPI, REST, OAuth2, OIDC, Keycloak, OpenShift, TDD, arc42, ArchUnit |
+| 06/2022 – 03/2023 | **software developer / architect**<br>developed Skillmatrix, an internal bbv application for tracking developers and their skills.<br><br>**technologies and methods:** Java 17, Spring Boot, Thymeleaf, HTML5, CSS, Bootstrap, Maven, Git, GitHub, SonarCloud, JUnit, PostgreSQL, Docker, AWS, Elastic Beanstalk, EC2, arc42, PlantUML, UML |
 |12/2022 - 01/2023|**architectural consulting** in Swiss streaming plattform provider, analysis of backend code<br>**technologies used**: Sonargraph|
 |04/2021 - 06/2022|**software developer** at an insurance company<br>setup automatic release process (mvn), introduction and coaching of git workflow, quality insurance by using SonarQube in the CI/CD pipeline, refactoring code to reduce SonarQube issues<br>**technologies used**: Java 11, JUnit, OpenShift 4, Jenkins, SonarQube|
 |10/2020 - 03/2021|**fullstack developer** at a telecommunications provider<br>implementing user stories in frontend (React, Typescript) and backend (Java, Spring), reduction of technical debt, software modernization<br>**technologies used**: Java 8, Spring, SpringBoot, JavaScript, Typescript, React, HTML, CSS, Redis, JUnit|
@@ -46,7 +48,7 @@ _(click images to see badges)_
 
 |time|achivement||
 |---|---|---|
-|04/2023|Certified Kubernetes Application Developer|[![CKSD](https://images.credly.com/size/100x100/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/badges/b1ae47ca-5a51-4744-8b6e-5174ee338e3f)|
+|04/2023|Certified Kubernetes Application Developer|[CKAD](https://www.credly.com/badges/b1ae47ca-5a51-4744-8b6e-5174ee338e3f) (expired 04/2026)|
 |11/2022|iSAQB CPSA-A<br>Certified Professional Software Architect<br>(Advanced)|[![CPSA-F](./cpsa-a-logo.png)](https://www.certible.com/verify/f40e6645073f01735ffeb33d24d9bddb)|
 |08/2020|AWS Cloud Practitioner|[![AWS Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/1f98299e-e08d-4896-aa32-88f7eecfd698)|
 |07/2020|iSAQB CPSA-F<br>Certified Professional Software Architect<br>(Foundation)|[![CPSA-F](./cpsa-f-logo.png)](https://www.certible.com/verify/1dd77a2781157fb11161acf5d04ad532)|
